@@ -1,0 +1,49 @@
+.card3{
+    background-color: lightskyblue;
+    background: url('images/authentication.png');
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    background-position: 630px;
+    padding-top: 10px;
+    background-size: 350px 340px;
+    opacity: 95%;
+    height: 360px;
+    width: 1000px;
+    margin-top: 115px;
+}
+.signin{
+    margin-left: 20px;
+    color: rgb(34, 125, 230);
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.signin span{
+    color: black;
+}
+.create{
+    color: rgb(34, 125, 230);
+    font-size: 45px;
+    margin-bottom: 50px;
+    
+}
+.card{
+    margin-left: -30px;
+    
+}
+.card3 form{
+    height: 500px;
+    width: 600px;
+    
+    
+}
+
+.create span{
+    color: rgb(30, 1, 68);
+}
+
+
+.card3 .btn{
+    width: 100px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}

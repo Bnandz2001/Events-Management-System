@@ -1,0 +1,49 @@
+.about .row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+  
+}
+.heading{
+    color: rgb(34, 125, 230);
+    font-size: 55px;
+    margin-bottom: 90px;
+    margin-left: 150px;
+    font-weight: 640;
+    margin-top: 100px;
+}
+.about span{
+    color: black;
+}
+.about .row .image9{
+flex: 1 1 45rem;
+padding: 1rem;
+}
+.about .row .image9 img{
+    width: 700px;
+    height: 450px;
+    border-radius: .5rem;
+    border: .4rem solid rgb(34, 125, 230);
+   
+    
+    }
+    .about .row .content5{
+        flex: 1 1 45rem;
+        
+        }
+        .about .row .content5 h3{
+            font-size: 2.5rem;
+            color:rgb(34, 125, 230) ;
+        }
+        .about .row .content5 p{
+            font-size: 1.3rem;
+            color: gray;
+            padding: 1rem 0;
+            line-height: 2;
+        }
+        .about .row .content5 .btn{
+            font-weight: bold;
+            font-size: 1.2rem;
+            width: 180px;
+        }

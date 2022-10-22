@@ -1,0 +1,146 @@
+section{
+    padding: 5rem 9%;
+    margin-top: -45px;
+}
+.home{
+    padding:0;
+}
+
+.box1{
+    background: url(images/wed.jpg);
+    color: aliceblue;
+    background-repeat: no-repeat;
+    max-height: 93vh;
+    display: flex;
+    align-items: center;
+    background-size: cover ;
+    background-position: center;
+    justify-content: flex-start;
+    padding: 2rem 9%;
+    padding-bottom: 500px;
+    margin-top: 115px;
+}
+
+.box2{
+    margin-top: 115px;
+    background: url(images/birth.jpg);
+    color: aliceblue;
+    background-repeat: no-repeat;
+    min-height: 93vh;
+    display: flex;
+    align-items: center;
+    background-size: cover ;
+    background-position: center;
+    justify-content: flex-end;
+    padding: 2rem 9%;
+    padding-top: 160px;
+    padding-left: 1100px;
+}
+
+.box3{
+    margin-top: 115px;
+    background: url(images/music.jpg);
+    color: aliceblue;
+    background-repeat: no-repeat;
+    max-height: 93vh;
+    display: flex;
+    align-items: center;
+    background-size: cover ;
+    background-position: center;
+    justify-content: flex-start;
+    padding: 2rem 9%;
+    padding-bottom: 500px;
+    
+}
+
+.box4{
+    margin-top: 115px;
+    background: url(images/college.jpg);
+    color: aliceblue;
+    background-repeat: no-repeat;
+    min-height: 93vh;
+    display: flex;
+    align-items: center;
+    background-size: cover ;
+    background-position: center;
+    justify-content: flex-end;
+    padding: 2rem 9%;
+    padding-top: 160px;
+    padding-left: 950px;
+}
+
+.content{
+    margin-top: 100px;
+    width: 50rem;
+
+    
+}
+.box1 p{
+    color: black;
+    /* margin-left: 100px; */
+}
+.box1 .content span{
+    font-size: 2.5rem;
+    color: black;
+}
+.box1 .content h3{
+    font-size: 6rem;
+    color: rgb(220, 71, 120);
+}
+
+.box2 .content span{
+    font-size: 2.7rem;
+    color: white;
+}
+.box2 .content h3{
+    font-size: 6.5rem;
+    color: rgb(77, 14, 77);
+}
+.box3 .content span{
+    font-size: 2.7rem;
+    color: black;
+}
+.box3 .content h3{
+    font-size: 6rem;
+    color: rgb(173, 71, 11);
+}
+.box4 .content span{
+    font-size: 2.5rem;
+    color: whitesmoke;
+}
+.box4 .content h3{
+    font-size: 5.5rem;
+    color: rgb(217, 163, 81);
+}
+
+
+.content .btn{
+    margin-top: .5rem;
+    display: inline-block;
+    border: .2rem solid black;
+    color: black;
+    background: none;
+    font-size: 1.3rem;
+    padding: 1rem 2.7rem;
+   
+
+}
+.btn:hover{
+    background: rgb(26, 25, 25);
+    color: aliceblue;
+    border-radius: 5px;
+    opacity: 85%;
+    font-weight: bold;
+    font-size: 1.27rem;
+}
+
+.box3 p{
+    color: black;
+    /* margin-left: 100px; */
+}
+
+.box2 p{
+    /* color: black; */
+    margin-left: 250px;
+    /* margin-left: 100px; */
+}
